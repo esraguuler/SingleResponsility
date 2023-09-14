@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\SingleResponsility\SingleResponsility\bin\Debug\SingleResponsility.exe.config
+C:\Users\esrag\source\repos\SingleResponsility\SingleResponsility\bin\Debug\SingleResponsility.exe
+C:\Users\esrag\source\repos\SingleResponsility\SingleResponsility\bin\Debug\SingleResponsility.pdb
+C:\Users\esrag\source\repos\SingleResponsility\SingleResponsility\obj\Debug\SingleResponsility.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\SingleResponsility\SingleResponsility\obj\Debug\SingleResponsility.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\SingleResponsility\SingleResponsility\obj\Debug\SingleResponsility.exe
+C:\Users\esrag\source\repos\SingleResponsility\SingleResponsility\obj\Debug\SingleResponsility.pdb
